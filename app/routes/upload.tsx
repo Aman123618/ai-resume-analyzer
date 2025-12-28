@@ -95,7 +95,7 @@ const Upload = () => {
                 {isProcessing ?(
                     <>
                         <h2>{statusText}</h2>
-                        <img src="/images/resume-scan.gif.png" className="w-full"/>
+                        <img src="/images/resume-scan.gif" className="w-full"/>
 
                     </>
                 ):(
